@@ -1,0 +1,38 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.color__cuppon {
+  background-color: #28a745;
+}
+
+.product__title {
+  font-size: 20px;
+  font-weight: 300;
+}
+
+.text__cuppon {
+  font-size: 16px;
+  font-weight: 300;
+}
+
+.address {
+  font-size: 13px;
+  font-weight: 300;
+}
+
+.offer {
+  font-size: 20px;
+  font-weight: 600;
+  color: #28a745;
+}
+
+h4 {
+  font-size: 21px;
+  font-weight: 500;
+}
+
+.send {
+  font-size: 16px;
+  font-weight: 500;
+}
